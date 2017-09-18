@@ -24,4 +24,4 @@ b.SetSpeedInfo(300, "MB/s")
 b.Update(34)
 ```
 
-[Doumentation](https://godoc.org/gihtub.com/aki237/pbar)
+[Doumentation](https://godoc.org/github.com/aki237/pbar)
